@@ -48,7 +48,7 @@ class Solve:
 		for i in range(0,6):
 			faceArray.append(int())
 		
-		for f in range(0,3):
+		for f in range(0,6):
 			for x in range(0,3):
 				for y in range(0,3):
 					if x != y and x == 1 or y == 1:
